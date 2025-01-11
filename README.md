@@ -13,21 +13,21 @@
 - 🛠 **SQA Tools & Platforms:**  
   - JIRA 🐞 (Defect Tracking)  
   - Swagger 🌐 (API Testing Tool)  
-  - Monday.com 🗂️ (Bug Reporting Tool)  
+  - Monday.com 🗂️ (Bug Reporting Tool)
+  -  Mantis 1.1.6 🐞 (Bug Tracking Tool)   
   - Mercury Test Director 7.6  
 
 - 💻 **Programming & Automation Tools:**  
   - Selenium with Python 🤖  
   - MySQL 💾 (Database Validation)  
 
-- ✍️ **Documentation & Collaboration Tools:**  
+- ✍️ **Documentation,Designing & Collaboration Tools:**  
   - Trello 🗓️  
   - Figma 🎨  
   - ROBO Help 7.0 🖋️ (Help Writing Tool)  
 
 - 🎬 **Other Skills & Tools:**  
   - Flash ⚡  
-  - Mantis 1.1.6 🐞 (Bug Tracking Tool)  
 
 ✨ My dedication to **quality assurance** has enabled me to streamline processes, enhance user satisfaction, and deliver outstanding results consistently. I am excited to explore and innovate in the ever-evolving tech world! 🌍  
 
@@ -45,26 +45,26 @@
 - 📑 Documented findings and submitted test reports for improvement.  
 **🛠 Tools:** JIRA  
 
-#### **2. [CliniScripts Assist](http://assist.cliniscripts.com/)** (Mar 2024 - Sep 2024)  
+#### **2. [CliniScript](https://clear-md.web.app/)** (Jan 2024 - May 2024)  
+**AI-based transcription services**.  
+- 🖋️ Developed test cases and executed manual and automated testing.  
+- 🔧 Ensured defect-free releases using Selenium with Python.  
+- 📑 Reported findings through structured test reporting.  
+**🛠 Tools:** Trello, Selenium  
+
+#### **3. [CliniScripts Assist](http://assist.cliniscripts.com/)** (Mar 2024 - Sep 2024)  
 **AI-driven transcription process** enhancement.  
 - 🖋️ Designed test cases ensuring efficient functionality.  
 - 🔍 Executed manual testing to verify transcription accuracy.  
 - 📑 Generated comprehensive test reports for evaluation.  
 **🛠 Tools:** JIRA  
 
-#### **3. Veyetal** (Apr 2024 - May 2024)  
+#### **4. Veyetal** (Apr 2024 - May 2024)  
 **AI application** capturing facial expression data.  
 - 🖋️ Developed comprehensive test cases to ensure accuracy and reliability.  
 - 🔍 Performed rigorous manual testing to identify and resolve issues.  
 - 📑 Prepared detailed test reports for stakeholders.  
 **🛠 Tools:** JIRA  
-
-#### **4. [CliniScript](https://clear-md.web.app/)** (Jan 2024 - May 2024)  
-**AI-based transcription services**.  
-- 🖋️ Developed test cases and executed manual and automated testing.  
-- 🔧 Ensured defect-free releases using Selenium with Python.  
-- 📑 Reported findings through structured test reporting.  
-**🛠 Tools:** Trello, Selenium  
 
 ---
 
