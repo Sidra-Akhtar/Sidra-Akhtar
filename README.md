@@ -38,19 +38,20 @@
 
 ### **2024**  
 
-#### **1. [CliniAssess](http://www.web-stage.cliniscripts.com)** (Apr 2024 - Present)  
-**AI assessment application** for streamlining patient evaluation.  
+#### **1. [CliniScript](https://app.cliniscripts.com/login/)** (Jan 2024 - Present)  
+**AI-based transcription services**.  
+- 🖋️ Developed test cases and executed manual and automated testing.  
+- 🔧 Ensured defect-free releases using Selenium with Python.  
+- 📑 Reported findings through structured test reporting.  
+**🛠 Tools:** Trello, Selenium
+  
+#### **2. [CliniAssess](https://web-stage.cliniscripts.com/)** (Apr 2024 - May 2024)  
+**[AI assessment application](https://admin-stage.cliniscripts.com/)** for streamlining patient evaluation.  
 - 🖋️ Created and executed test cases tailored to application functionality.  
 - 🔍 Conducted manual testing for end-to-end evaluation.  
 - 📑 Documented findings and submitted test reports for improvement.  
 **🛠 Tools:** JIRA  
 
-#### **2. [CliniScript](https://app.cliniscripts.com/login/)** (Jan 2024 - May 2024)  
-**AI-based transcription services**.  
-- 🖋️ Developed test cases and executed manual and automated testing.  
-- 🔧 Ensured defect-free releases using Selenium with Python.  
-- 📑 Reported findings through structured test reporting.  
-**🛠 Tools:** Trello, Selenium  
 
 #### **3. [CliniScripts Assist](http://assist.cliniscripts.com/)** (Mar 2024 - Sep 2024)  
 **AI-driven transcription process** enhancement.  
@@ -60,7 +61,7 @@
 **🛠 Tools:** JIRA  
 
 #### **4. Veyetal** (Apr 2024 - May 2024)  
-**AI application** capturing facial expression data.  
+**Mobile App** capturing facial expression data.  
 - 🖋️ Developed comprehensive test cases to ensure accuracy and reliability.  
 - 🔍 Performed rigorous manual testing to identify and resolve issues.  
 - 📑 Prepared detailed test reports for stakeholders.  
@@ -70,8 +71,8 @@
 
 ### **2020 - 2023**  
 
-#### **5. [SenSights Web and Mobile App](https://login.sensights.ai/)** (May 2020 - Present)  
-**Web and [mobile app](https://login.sensights.ai/)** for patients and caregivers.  
+#### **5. [SenSights Web and Mobile App](https://stage01.sensights.ai/)** (May 2020 - Present)  
+**Web and mobile app** for patients and caregivers.  
 - 🖋️ Created test cases to cover all application scenarios.  
 - 🔍 Conducted API testing with Swagger and manual UI testing.  
 - 🤖 Automated test scripts using Test Trigger for faster testing cycles.  
