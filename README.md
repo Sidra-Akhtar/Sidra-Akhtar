@@ -311,7 +311,8 @@
 ---
 
 ## 🔗 **Contact Information**  
-📞 **Phone:** +92 316 6143131  
+📞 **Phone:** +92 316 6143131 
+📞 **Phone:** +92 300 8817899
 📧 **Email:** [sidraakhtar@gmail.com](mailto:sidraakhtar@gmail.com)  
 🔗 **LinkedIn:** [Sidra Akhtar](https://www.linkedin.com/in/sidra-akhtar/)  
 
