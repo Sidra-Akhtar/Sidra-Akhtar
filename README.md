@@ -45,7 +45,7 @@
 - 📑 Documented findings and submitted test reports for improvement.  
 **🛠 Tools:** JIRA  
 
-#### **2. [CliniScript](https://clear-md.web.app/)** (Jan 2024 - May 2024)  
+#### **2. [CliniScript](https://app.cliniscripts.com/login/)** (Jan 2024 - May 2024)  
 **AI-based transcription services**.  
 - 🖋️ Developed test cases and executed manual and automated testing.  
 - 🔧 Ensured defect-free releases using Selenium with Python.  
@@ -179,8 +179,8 @@
 | JIRA                       | Bug tracking and reporting   |
 | Mantis                     | Defect management            |
 | Monday.com                 | Task and issue tracking      |
-| Test Director              | Defect and testing tracking  |
-
+| Test Director              | Defect tracking + test case development  |
+| Asana             | Defect tracking   |
 ---
 
 ### 🗂️ **Database Skills**  
