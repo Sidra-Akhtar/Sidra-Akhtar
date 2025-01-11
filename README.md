@@ -72,7 +72,7 @@
 
 ### **2020 - 2023**  
 
-#### **5. [SenSights Web and Mobile App](https://stage01.sensights.ai/)** (May 2020 - Present)  
+#### **5. SenSights Web and Mobile App** (May 2020 -june 2024)  
 **Web and mobile app** for patients and caregivers.  
 - 🖋️ Created test cases to cover all application scenarios.  
 - 🔍 Conducted API testing with Swagger and manual UI testing.  
