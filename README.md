@@ -12,7 +12,8 @@
 ### 🔧 **Core Expertise**  
 - 🛠 **SQA Tools & Platforms:**  
   - JIRA 🐞 (Defect Tracking)  
-  - Swagger 🌐 (API Testing Tool)  
+  - Swagger 🌐 (API Testing Tool)
+  - Postman 🌐 (API Testing Tool)  
   - Monday.com 🗂️ (Bug Reporting Tool)
   -  Mantis 1.1.6 🐞 (Bug Tracking Tool)   
   - Mercury Test Director 7.6  
